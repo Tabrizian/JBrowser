@@ -208,7 +208,7 @@ public class Menu extends JMenuBar {
 			
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
-				frame.navigate("C:\\Users\\dell-iman\\workspace\\JBrowser\\doc\\index.html");
+				frame.navigate("file:///C:/Users/dell-iman/workspace/JBrowser/doc/com/gui/class-use/MainFrame.html");
 			}
 		});
 
